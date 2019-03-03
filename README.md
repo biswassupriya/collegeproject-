@@ -1,2 +1,0 @@
-# collegeproject-
-android app
